@@ -1,0 +1,14 @@
+C:\Users\HP 840\Documents\C#\MeuPrograma\bin\Debug\net10.0\MeuPrograma.exe
+C:\Users\HP 840\Documents\C#\MeuPrograma\bin\Debug\net10.0\MeuPrograma.deps.json
+C:\Users\HP 840\Documents\C#\MeuPrograma\bin\Debug\net10.0\MeuPrograma.runtimeconfig.json
+C:\Users\HP 840\Documents\C#\MeuPrograma\bin\Debug\net10.0\MeuPrograma.dll
+C:\Users\HP 840\Documents\C#\MeuPrograma\bin\Debug\net10.0\MeuPrograma.pdb
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.dll
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\refint\MeuPrograma.dll
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.pdb
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\HP 840\Documents\C#\MeuPrograma\obj\Debug\net10.0\ref\MeuPrograma.dll
